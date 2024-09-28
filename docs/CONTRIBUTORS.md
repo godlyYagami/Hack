@@ -74,7 +74,7 @@
 
 - Peter Oliver
 - Chris Simpkins
-
+- Gene Magnus 
 ### Scripting
 
 - Chris Clauss
@@ -219,3 +219,4 @@
 - @schauveau
 - @ScuzzyEye
 - @tbrisbane
+(close-in me)
